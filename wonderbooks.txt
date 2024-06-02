@@ -1,0 +1,20 @@
+007_ _: Make sure this field is present
+020_ _: Include Wonderbook and regular book ISBNs. May use $z  and (print) in the fields of the print book ISBNs to help differentiate the ISBNs. Use the print ISBN that matches the physical portion of the Wonderbook, to the best of your ability.
+092/099: Call number: Match the call number style to the print version: AUTHOR Title, dewey + cutter, TITLE or SERIES + #, LAST_NA,I + cutter, etc.
+245: Include $h [sound recording]
+250_ _: Include [Wonderbooks edition]
+264 _1: Include [Solon, Ohio] : $b [Playaway Products, LLC] as the Wonderbooks publisher and the regular book publisher [Note: the publisher was previously Findaway World, LLC. After merging with Spotify, the publisher is Playaway Products, LLC]
+300_ _: 1 audio-enabled book (# pages) : $b illustrations (if present) ; $c cm 
+500_ _ Print book published:
+500_ _ Release date supplied by publisher.
+500_ _ Audiobook originally released by (when available; can sometimes be found on Library Idea's website)
+500_ _ Powered by a rechargeable battery ; USB charger required for recharging.
+500_ _ Issued as a Wonderbook, a pre-loaded audiobook player permanently attached to a hardcover book.
+500_ _ Audiobook player has 2 modes. Read-Along mode narrates the story. Learning mode asks questions related to the story.
+511 0_ [Narrated by ____] (when available; can sometimes be found on Playaway's Wonderbook website)
+655 _7 Children's audiobooks. $2 lcgft
+655 _7 Readers (Publications) $2 lcgft
+700 1_ Add the narrator as an added author
+710 2_ Wonderbooks.
+776: Original version:|aDyckman, Ame.|tRead the book, lemmings!.|dNew York ; Boston : Little, Brown and Company, 2018|z9780316343480|w(OcoLC) 957154679 (usually present in full-level OCLC records) Make ISBN and OCLC # match existing library copy for reference purposes, even if the existing library copy isn't exactly the same edition that the Wonderbook uses. The ISBN does not have to match the 020.
+830 _0: If there is a sound recording series present, remove and use the print series instead.
