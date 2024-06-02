@@ -1,0 +1,19 @@
+020: International Standard Book Number (ISBN) ‡a ISBN
+041: Language Code (if applicable) ‡a Language code (e.g., eng)
+1xx: Main Entry – Personal Name, etc.. ‡a Author's name 
+245: Title Statement ‡a Title :‡b Remainder of title (if any) /‡c Statement of responsibility (e.g., by Author's name)
+250: Edition Statement ‡a Edition statement (if applicable)
+264: Publication, Distribution, etc. (Imprint) ‡a Place of publication :‡b Name of publisher ;‡c Date of publication
+300: Physical Description ‡a Extent (e.g., number of pages) :‡b Other physical details (e.g., illustrations), ‡c Dimensions (e.g., cm)
+336: Content Type ‡a Content type term (e.g., text) ‡b Content type code (e.g., txt) ‡2 rdacontent
+337: Media Type ‡a Media type term (e.g., unmediated) ‡b Media type code (e.g., n) ‡2 rdamedia
+338: Carrier Type ‡a Carrier type term (e.g., volume) ‡b Carrier type code (e.g., nc) ‡2 rdacarrier
+490: Series Statement ‡a Series statement (if applicable) ‡v Volume number/sequential designation (if applicable)
+500: General Note ‡a General note (if applicable)
+520: Summary, Etc. ‡a Summary (e.g., a brief synopsis of the novel)
+600: Subject Added Entry – Personal Name ‡a Personal name (if applicable)
+650: Subject Added Entry – Topical Term and subdivisions
+655: Index Term – Genre/Form ‡a Genre/form term (e.g., Fiction) ‡2 Term source (e.g., lcgft)
+7xx: Added Entry – Personal Name ‡a Personal name (e.g., editor, illustrator, etc.)
+800: Series Author name Added Entry (if applicable)
+830: Series Added Entry – Uniform Title (if applicable)
